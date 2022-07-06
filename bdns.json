@@ -1,161 +1,161 @@
 {
     "demo.epi": {
         "anchoringServices": [
-            "https://bayer.pla.health/",
-            "https://takeda.pla.health/",
-            "https://msd.pla.health/",
-            "https://pfizer.pla.health/",
-            "https://nvs.pla.health/",
-            "https://gsk.pla.health/",
-            "https://admin.pla.health/",
-            "https://abbvie.pla.health/",
-            "https://jnj.pla.health/"
+            "https://bayer.pla.health",
+            "https://takeda.pla.health",
+            "https://msd.pla.health",
+            "https://pfizer.pla.health",
+            "https://nvs.pla.health",
+            "https://gsk.pla.health",
+            "https://admin.pla.health",
+            "https://abbvie.pla.health",
+            "https://jnj.pla.health"
         ],
         "notifications": [
-            "https://bayer.pla.health/",
-            "https://takeda.pla.health/",
-            "https://msd.pla.health/",
-            "https://pfizer.pla.health/",
-            "https://nvs.pla.health/",
-            "https://gsk.pla.health/",
-            "https://admin.pla.health/",
-            "https://abbvie.pla.health/",
-            "https://jnj.pla.health/"
+            "https://bayer.pla.health",
+            "https://takeda.pla.health",
+            "https://msd.pla.health",
+            "https://pfizer.pla.health",
+            "https://nvs.pla.health",
+            "https://gsk.pla.health",
+            "https://admin.pla.health",
+            "https://abbvie.pla.health",
+            "https://jnj.pla.health"
         ]
     },
     "demo.epi.abbvie": {
         "anchoringServices": [
-            "https://abbvie.pla.health/"
+            "https://abbvie.pla.health"
         ],
         "brickStorages": [
-            "https://abbvie.pla.health/"
+            "https://abbvie.pla.health"
         ],
         "notifications": [
-            "https://abbvie.pla.health/"
+            "https://abbvie.pla.health"
         ]
     },
     "demo.epi.bayer": {
         "anchoringServices": [
-            "https://bayer.pla.health/"
+            "https://bayer.pla.health"
         ],
         "brickStorages": [
-            "https://bayer.pla.health/"
+            "https://bayer.pla.health"
         ],
         "notifications": [
-            "https://bayer.pla.health/"
+            "https://bayer.pla.health"
         ]
     },
     "demo.epi.gsk": {
         "anchoringServices": [
-            "https://gsk.pla.health/"
+            "https://gsk.pla.health"
         ],
         "brickStorages": [
-            "https://gsk.pla.health/"
+            "https://gsk.pla.health"
         ],
         "notifications": [
-            "https://gsk.pla.health/"
+            "https://gsk.pla.health"
         ]
     },
     "demo.epi.jnj": {
         "anchoringServices": [
-            "https://jnj.pla.health/"
+            "https://jnj.pla.health"
         ],
         "brickStorages": [
-            "https://jnj.pla.health/"
+            "https://jnj.pla.health"
         ],
         "notifications": [
-            "https://jnj.pla.health/"
+            "https://jnj.pla.health"
         ]
     },
     "demo.epi.msd": {
         "anchoringServices": [
-            "https://msd.pla.health/"
+            "https://msd.pla.health"
         ],
         "brickStorages": [
-            "https://msd.pla.health/"
+            "https://msd.pla.health"
         ],
         "notifications": [
-            "https://msd.pla.health/"
+            "https://msd.pla.health"
         ]
     },
     "demo.epi.nvs": {
         "anchoringServices": [
-            "https://nvs.pla.health/"
+            "https://nvs.pla.health"
         ],
         "brickStorages": [
-            "https://nvs.pla.health/"
+            "https://nvs.pla.health"
         ],
         "notifications": [
-            "https://nvs.pla.health/"
+            "https://nvs.pla.health"
         ]
     },
     "demo.epi.pfizer": {
         "anchoringServices": [
-            "https://pfizer.pla.health/"
+            "https://pfizer.pla.health"
         ],
         "brickStorages": [
-            "https://pfizer.pla.health/"
+            "https://pfizer.pla.health"
         ],
         "notifications": [
-            "https://pfizer.pla.health/"
+            "https://pfizer.pla.health"
         ]
     },
     "demo.epi.pla": {
         "anchoringServices": [
-            "https://admin.pla.health/"
+            "https://admin.pla.health"
         ],
         "brickStorages": [
-            "https://admin.pla.health/"
+            "https://admin.pla.health"
         ],
         "notifications": [
-            "https://admin.pla.health/"
+            "https://admin.pla.health"
         ]
     },
     "demo.epi.takeda": {
         "anchoringServices": [
-            "https://takeda.pla.health/"
+            "https://takeda.pla.health"
         ],
         "brickStorages": [
-            "https://takeda.pla.health/"
+            "https://takeda.pla.health"
         ],
         "notifications": [
-            "https://takeda.pla.health/"
+            "https://takeda.pla.health"
         ]
     },
     "dev.epi": {
         "anchoringServices": [
-            "https://epi-frankfurt-dev.535161841476.cloud.bayer.com/",
+            "https://epi-frankfurt-dev.535161841476.cloud.bayer.com",
             "https://epipoc.msd-bcn.net",
-            "https://dev.epi.novartis.com/",
-            "https://intepitest.epi-jnj.com/"
+            "https://dev.epi.novartis.com",
+            "https://intepitest.epi-jnj.com"
         ],
         "notifications": [
-            "https://epi-frankfurt-dev.535161841476.cloud.bayer.com/",
+            "https://epi-frankfurt-dev.535161841476.cloud.bayer.com",
             "https://epipoc.msd-bcn.net",
-            "https://dev.epi.novartis.com/",
-            "https://intepitest.epi-jnj.com/"
+            "https://dev.epi.novartis.com",
+            "https://intepitest.epi-jnj.com"
         ]
     },
     "dev.epi.bayer": {
         "anchoringServices": [
-            "https://epi-frankfurt-dev.535161841476.cloud.bayer.com/"
+            "https://epi-frankfurt-dev.535161841476.cloud.bayer.com"
         ],
         "brickStorages": [
-            "https://epi-frankfurt-dev.535161841476.cloud.bayer.com/"
+            "https://epi-frankfurt-dev.535161841476.cloud.bayer.com"
         ],
         "notifications": [
-            "https://epi-frankfurt-dev.535161841476.cloud.bayer.com/"
+            "https://epi-frankfurt-dev.535161841476.cloud.bayer.com"
         ]
     },
     "dev.epi.jnj": {
         "anchoringServices": [
-            "https://intepitest.epi-jnj.com/"
+            "https://intepitest.epi-jnj.com"
         ],
         "brickStorages": [
-            "https://intepitest.epi-jnj.com/"
+            "https://intepitest.epi-jnj.com"
         ],
         "notifications": [
-            "https://intepitest.epi-jnj.com/"
+            "https://intepitest.epi-jnj.com"
         ]
     },
     "dev.epi.msd": {
@@ -171,70 +171,58 @@
     },
     "dev.epi.nvs": {
         "anchoringServices": [
-            "https://dev.epi.novartis.com/"
+            "https://dev.epi.novartis.com"
         ],
         "brickStorages": [
-            "https://dev.epi.novartis.com/"
+            "https://dev.epi.novartis.com"
         ],
         "notifications": [
-            "https://dev.epi.novartis.com/"
+            "https://dev.epi.novartis.com"
         ]
     },
     "sandbox.epi": {
         "anchoringServices": [
-            "https://epi-singapore-dev.535161841476.cloud.bayer.com/",
-            "https://epiqa.westeurope.cloudapp.azure.com/",
-            "https://epidemo.pharmaledger.dev/"
+            "https://epi-singapore-dev.535161841476.cloud.bayer.com",
+            "https://epiqa.westeurope.cloudapp.azure.com",
+            "https://epidemo.pharmaledger.dev"
         ],
         "notifications": [
-            "https://epi-singapore-dev.535161841476.cloud.bayer.com/",
-            "https://epiqa.westeurope.cloudapp.azure.com/",
-            "https://epidemo.pharmaledger.dev/"
+            "https://epi-singapore-dev.535161841476.cloud.bayer.com",
+            "https://epiqa.westeurope.cloudapp.azure.com",
+            "https://epidemo.pharmaledger.dev"
         ]
     },
     "sandbox.epi.bayer": {
         "anchoringServices": [
-            "https://epi-singapore-dev.535161841476.cloud.bayer.com/"
+            "https://epi-singapore-dev.535161841476.cloud.bayer.com"
         ],
         "brickStorages": [
-            "https://epi-singapore-dev.535161841476.cloud.bayer.com/"
+            "https://epi-singapore-dev.535161841476.cloud.bayer.com"
         ],
         "notifications": [
-            "https://epi-singapore-dev.535161841476.cloud.bayer.com/"
+            "https://epi-singapore-dev.535161841476.cloud.bayer.com"
         ]
     },
     "sandbox.epi.nvs": {
         "anchoringServices": [
-            "https://epiqa.westeurope.cloudapp.azure.com/"
+            "https://epiqa.westeurope.cloudapp.azure.com"
         ],
         "brickStorages": [
-            "https://epiqa.westeurope.cloudapp.azure.com/"
+            "https://epiqa.westeurope.cloudapp.azure.com"
         ],
         "notifications": [
-            "https://epiqa.westeurope.cloudapp.azure.com/"
+            "https://epiqa.westeurope.cloudapp.azure.com"
         ]
     },
     "sandbox.epi.pla": {
         "anchoringServices": [
-            "https://epidemo.pharmaledger.dev/"
+            "https://epidemo.pharmaledger.dev"
         ],
         "brickStorages": [
-            "https://epidemo.pharmaledger.dev/"
+            "https://epidemo.pharmaledger.dev"
         ],
         "notifications": [
-            "https://epidemo.pharmaledger.dev/"
+            "https://epidemo.pharmaledger.dev"
         ]
-    },
-    "vault": {
-        "anchoringServices": [
-            "$ORIGIN"
-        ],
-        "brickStorages": [
-            "$ORIGIN"
-        ],
-        "notifications": [
-            "$ORIGIN"
-        ],
-        "replicas": []
     }
 }
