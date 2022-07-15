@@ -122,6 +122,18 @@
             "https://takeda.pla.health"
         ]
     },
+    "demo.epi.alp": {
+        "replicas": [],
+        "brickStorages": [
+          "https://acdc.2001u1.com"
+        ],
+        "anchoringServices": [
+          "https://acdc.2001u1.com"
+        ],
+        "notifications": [
+          "https://acdc.2001u1.com"
+        ]
+    },
     "dev.epi": {
         "anchoringServices": [
             "https://epi-frankfurt-dev.535161841476.cloud.bayer.com",
