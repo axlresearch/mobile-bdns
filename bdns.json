@@ -236,5 +236,16 @@
         "notifications": [
             "https://epidemo.pharmaledger.dev"
         ]
+    },
+    "preqa.epi.axl": {
+        "anchoringServices": [
+            "https://preqa.pla.health"
+        ],
+        "brickStorages": [
+            "https://preqa.pla.health"
+        ],
+        "notifications": [
+            "https://preqa.pla.health"
+        ]
     }
 }
