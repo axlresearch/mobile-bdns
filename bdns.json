@@ -11,6 +11,9 @@
             "https://abbvie.pla.health",
             "https://jnj.pla.health"
         ],
+        "brickStorages": [
+            "https://admin.pla.health"
+        ],
         "notifications": [
             "https://bayer.pla.health",
             "https://takeda.pla.health",
