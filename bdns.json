@@ -137,6 +137,17 @@
           "https://acdc.2001u1.com"
         ]
     },
+    "demo.epi.incm": {
+        "brickStorages": [
+          "https://pharmaledger.incm.pt"
+        ],
+        "anchoringServices": [
+          "https://pharmaledger.incm.pt"
+        ],
+        "notifications": [
+          "https://pharmaledger.incm.pt"
+        ]
+    },
     "dev.epi": {
         "anchoringServices": [
             "https://epi-frankfurt-dev.535161841476.cloud.bayer.com",
