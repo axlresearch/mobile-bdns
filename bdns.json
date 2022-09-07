@@ -148,6 +148,18 @@
           "https://pharmaledger.incm.pt"
         ]
     },
+    "demo.epi.tm": {
+        "replicas": [],
+        "brickStorages": [
+          "https://pharmaledger.truemed.cloud"
+        ],
+        "anchoringServices": [
+          "https://pharmaledger.truemed.cloud"
+        ],
+        "notifications": [
+          "https://pharmaledger.truemed.cloud"
+        ]
+    },
     "dev.epi": {
         "anchoringServices": [
             "https://epi-frankfurt-dev.535161841476.cloud.bayer.com",
