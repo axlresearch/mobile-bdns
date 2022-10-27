@@ -273,5 +273,26 @@
         "notifications": [
             "https://preqa.pla.health"
         ]
-    }
+    },
+    "localhost.epi": {
+        "anchoringServices": [
+            "http://localhost:8181",
+            "http://localhost:8182",
+            "http://localhost:8183",
+            "http://localhost:8184",
+            "http://localhost:8185",
+            "http://localhost:8186",
+            "http://localhost:8187",
+            "http://localhost:8188",
+            "http://localhost:8189",
+            "http://localhost:8080"
+        ],
+        "brickStorages": [
+            "http://localhost:8080"
+        ],
+        "notifications": [
+            "http://localhost:8080"
+        ]
+     }
+    
 }
