@@ -1,1 +1,95 @@
 
+{
+    "demo.epi": {
+        "anchoringServices": [            
+            "https://pqmsd.pla.health",            
+            "https://pqnvs.pla.health",        
+            "https://pqadmin.pla.health"
+            
+        ],
+        "brickStorages": [
+            "https://pqadmin.pla.health"
+        ],
+        "notifications": [
+            "https://pqmsd.pla.health",            
+            "https://pqnvs.pla.health",        
+            "https://pqadmin.pla.health"
+        ]
+    },    
+    "demo.epi.msd": {
+        "anchoringServices": [
+            "https://pqmsd.pla.health"
+        ],
+        "brickStorages": [
+            "https://pqmsd.pla.health"
+        ],
+        "notifications": [
+            "https://pqmsd.pla.health"
+        ]
+    },
+    "demo.epi.nvs": {
+        "anchoringServices": [
+            "https://pqnvs.pla.health"
+        ],
+        "brickStorages": [
+            "https://pqnvs.pla.health"
+        ],
+        "notifications": [
+            "https://pqnvs.pla.health"
+        ]
+    }, 
+    "demo.epi.pla": {
+        "anchoringServices": [
+            "https://pqadmin.pla.health"
+        ],
+        "brickStorages": [
+            "https://pqadmin.pla.health"
+        ],
+        "notifications": [
+            "https://pqadmin.pla.health"
+        ]
+    },  
+    "demo.vault.pla": {
+        "anchoringServices": [
+            "$ORIGIN"
+        ],
+        "brickStorages": [
+            "$ORIGIN"
+        ],
+        "notifications": [
+            "$ORIGIN"
+        ]
+    },
+    "preqa.epi.axl": {
+        "anchoringServices": [
+            "https://preqa.pla.health"
+        ],
+        "brickStorages": [
+            "https://preqa.pla.health"
+        ],
+        "notifications": [
+            "https://preqa.pla.health"
+        ]
+    },
+    "localhost.epi": {
+        "anchoringServices": [
+            "http://localhost:8181",
+            "http://localhost:8182",
+            "http://localhost:8183",
+            "http://localhost:8184",
+            "http://localhost:8185",
+            "http://localhost:8186",
+            "http://localhost:8187",
+            "http://localhost:8188",
+            "http://localhost:8189",
+            "http://localhost:8080"
+        ],
+        "brickStorages": [
+            "http://localhost:8080"
+        ],
+        "notifications": [
+            "http://localhost:8080"
+        ]
+     }
+    
+}
