@@ -218,6 +218,17 @@
             "https://dev.epi.novartis.com"
         ]
     },
+    "dev.epi.takeda": {
+        "anchoringServices": [
+            "https://epidev.takeda.com/"
+        ],
+        "brickStorages": [
+            "https://epidev.takeda.com/"
+        ],
+        "notifications": [
+            "https://epidev.takeda.com/"
+        ]
+    },
     "sandbox.epi": {
         "anchoringServices": [
             "https://epi-singapore-dev.535161841476.cloud.bayer.com",
