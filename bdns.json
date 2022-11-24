@@ -274,7 +274,7 @@
             "https://epidemo.pharmaledger.dev"
         ]
     },
-    "preqa.epi.axl": {
+    "pq.epi": {
         "anchoringServices": [
             "https://preqa.pla.health"
         ],
@@ -283,6 +283,61 @@
         ],
         "notifications": [
             "https://preqa.pla.health"
+        ]
+    },
+     "pq.epi.nvs": {
+        "anchoringServices": [
+            "https://pqnvs.pla.health"
+        ],
+        "brickStorages": [
+            "https://pqnvs.pla.health"
+        ],
+        "notifications": [
+            "https://pqnvs.pla.health"
+        ]
+    },
+     "pq.epi.msd": {
+        "anchoringServices": [
+            "https://pqmsd.pla.health"
+        ],
+        "brickStorages": [
+            "https://pqmsd.pla.health"
+        ],
+        "notifications": [
+            "https://pqmsd.pla.health"
+        ]
+    },
+     "pq.epi.gsk": {
+        "anchoringServices": [
+            "https://pqgsk.pla.health"
+        ],
+        "brickStorages": [
+            "https://pqgsk.pla.health"
+        ],
+        "notifications": [
+            "https://pqgsk.pla.health"
+        ]
+    },
+     "pq.epi.tk": {
+        "anchoringServices": [
+            "https://pqtk.pla.health"
+        ],
+        "brickStorages": [
+            "https://pqtk.pla.health"
+        ],
+        "notifications": [
+            "https://pqtk.pla.health"
+        ]
+    },
+     "pq.epi.jnj": {
+        "anchoringServices": [
+            "https://pqjnj.pla.health"
+        ],
+        "brickStorages": [
+            "https://pqjnj.pla.health"
+        ],
+        "notifications": [
+            "https://pqjnj.pla.health"
         ]
     },
     "localhost.epi": {
