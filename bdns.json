@@ -276,13 +276,13 @@
     },
     "pq.epi": {
         "anchoringServices": [
-            "https://preqa.pla.health"
+            "https://pq.pla.health"
         ],
         "brickStorages": [
-            "https://preqa.pla.health"
+            "https://pq.pla.health"
         ],
         "notifications": [
-            "https://preqa.pla.health"
+            "https://pq.pla.health"
         ]
     },
      "pq.epi.nvs": {
