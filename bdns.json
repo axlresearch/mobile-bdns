@@ -330,7 +330,7 @@
             "https://pqtk.pla.health"
         ]
     },
-     "pq.epi.jnj": {
+    "pq.epi.jnj": {
         "anchoringServices": [
             "https://pqjnj.pla.health"
         ],
@@ -339,6 +339,22 @@
         ],
         "notifications": [
             "https://pqjnj.pla.health"
+        ]
+    },
+    "testsso.epi": {
+        "anchoringServices": [
+            "https://testsso.pla.health"
+        ],
+        "brickStorages": [
+            "https://testsso.pla.health"
+        ]
+    },
+    "testsso.epi.pla": {
+        "anchoringServices": [
+            "https://testsso.pla.health"
+        ],
+        "brickStorages": [
+            "https://testsso.pla.health"
         ]
     },
     "localhost.epi": {
