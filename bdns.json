@@ -165,7 +165,8 @@
             "https://epi-frankfurt-dev.535161841476.cloud.bayer.com",
             "https://epipoc.msd-bcn.net",
             "https://dev.epi.novartis.com",
-            "https://intepitest.epi-jnj.com"
+            "https://intepitest.epi-jnj.com",
+            "https://epidev.takeda.com"
         ],
         "notifications": [
             "https://epi-frankfurt-dev.535161841476.cloud.bayer.com",
@@ -220,13 +221,13 @@
     },
     "dev.epi.takeda": {
         "anchoringServices": [
-            "https://epidev.takeda.com/"
+            "https://epidev.takeda.com"
         ],
         "brickStorages": [
-            "https://epidev.takeda.com/"
+            "https://epidev.takeda.com"
         ],
         "notifications": [
-            "https://epidev.takeda.com/"
+            "https://epidev.takeda.com"
         ]
     },
     "sandbox.epi": {
