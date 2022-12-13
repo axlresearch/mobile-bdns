@@ -166,7 +166,8 @@
             "https://epipoc.msd-bcn.net",
             "https://dev.epi.novartis.com",
             "https://intepitest.epi-jnj.com",
-            "https://epidev.takeda.com"
+            "https://epidev.takeda.com",
+            "https://epi-dev.gsk.com"
         ],
         "notifications": [
             "https://epi-frankfurt-dev.535161841476.cloud.bayer.com",
@@ -217,6 +218,17 @@
         ],
         "notifications": [
             "https://dev.epi.novartis.com"
+        ]
+    },
+    "dev.epi.gsk": {
+        "anchoringServices": [
+            "https://epi-dev.gsk.com"
+        ],
+        "brickStorages": [
+            "https://epi-dev.gsk.com"
+        ],
+        "notifications": [
+            "https://epi-dev.gsk.com"
         ]
     },
     "dev.epi.takeda": {
