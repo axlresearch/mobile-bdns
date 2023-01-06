@@ -298,6 +298,17 @@
             "https://pq.pla.health"
         ]
     },
+    "pq.epi.pla": {
+        "anchoringServices": [
+            "https://pq.pla.health"
+        ],
+        "brickStorages": [
+            "https://pq.pla.health"
+        ],
+        "notifications": [
+            "https://pq.pla.health"
+        ]
+    },
      "pq.epi.nvs": {
         "anchoringServices": [
             "https://pqnvs.pla.health"
