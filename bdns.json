@@ -366,18 +366,18 @@
     },
     "testsso.epi": {
         "anchoringServices": [
-            "https://testsso.pla.health"
+            "https://testsso2.pla.health"
         ],
         "brickStorages": [
-            "https://testsso.pla.health"
+            "https://testsso2.pla.health"
         ]
     },
     "testsso.epi.pla": {
         "anchoringServices": [
-            "https://testsso.pla.health"
+            "https://testsso2.pla.health"
         ],
         "brickStorages": [
-            "https://testsso.pla.health"
+            "https://testsso2.pla.health"
         ]
     },
     "localhost.epi": {
