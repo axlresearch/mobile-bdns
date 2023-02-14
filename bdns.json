@@ -2,7 +2,8 @@
     "demo.epi": {
         "anchoringServices": [
             "https://bayer.pla.health",
-            "https://takeda.pla.health",
+            "https://tk.pla.health",
+            "https://takeda.pla.health",            
             "https://msd.pla.health",
             "https://pfizer.pla.health",
             "https://nvs.pla.health",
@@ -16,6 +17,7 @@
         ],
         "notifications": [
             "https://bayer.pla.health",
+            "https://tk.pla.health",
             "https://takeda.pla.health",
             "https://msd.pla.health",
             "https://pfizer.pla.health",
@@ -123,6 +125,17 @@
         ],
         "notifications": [
             "https://takeda.pla.health"
+        ]
+    },
+    "demo.epi.tk": {
+        "anchoringServices": [
+            "https://tk.pla.health"
+        ],
+        "brickStorages": [
+            "https://tk.pla.health"
+        ],
+        "notifications": [
+            "https://tk.pla.health"
         ]
     },
     "demo.epi.alp": {
