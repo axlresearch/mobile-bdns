@@ -516,6 +516,52 @@
       "https://dryrun2-mah4.pla.health"
     ]
   },
+  "dryrun2.epi": {
+    "anchoringServices": [
+      "https://dryrun-quo1.pla.health",
+      "https://dryrun-quo2.pla.health",
+      "https://dryrun-quo3.pla.health",
+      "https://dryrun-quo4.pla.health"
+    ],
+    "brickStorages": [
+      "https://dryrun-quo1.pla.health",
+      "https://dryrun-quo2.pla.health",
+      "https://dryrun-quo3.pla.health",
+      "https://dryrun-quo4.pla.health"
+    ]
+  },
+  "dryrun2.epi.quo1": {
+    "anchoringServices": [
+      "https://dryrun-quo1.pla.health"
+    ],
+    "brickStorages": [
+      "https://dryrun-quo1.pla.health"
+    ]
+  },
+  "dryrun2.epi.quo2": {
+    "anchoringServices": [
+      "https://dryrun-quo2.pla.health"
+    ],
+    "brickStorages": [
+      "https://dryrun-quo2.pla.health"
+    ]
+  },
+  "dryrun2.epi.quo3": {
+    "anchoringServices": [
+      "https://dryrun3-quo3.pla.health"
+    ],
+    "brickStorages": [
+      "https://dryrun-quo3.pla.health"
+    ]
+  },
+  "dryrun2.epi.quo4": {
+    "anchoringServices": [
+      "https://dryrun-quo4.pla.health"
+    ],
+    "brickStorages": [
+      "https://dryrun-quo4.pla.health"
+    ]
+  },
   "localhost.epi": {
     "anchoringServices": [
       "http://localhost:8181",
