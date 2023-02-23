@@ -173,6 +173,22 @@
       "https://pharmaledger.truemed.cloud"
     ]
   },
+  "demo.epi.axl": {
+    "anchoringServices": [
+      "https://axl.pla.health"
+    ],
+    "brickStorages": [
+      "https://axl.pla.health"
+    ]
+  },
+  "demo.epi.admin": {
+    "anchoringServices": [
+      "https://admin.pla.health"
+    ],
+    "brickStorages": [
+      "https://admin.pla.health"
+    ]
+  },
   "dev.epi": {
     "anchoringServices": [
       "https://epi-frankfurt-dev.535161841476.cloud.bayer.com",
@@ -450,6 +466,86 @@
     ],
     "notifications": [
       "https://pqjnj.pla.health"
+    ]
+  },
+  "preqa.epi.mah10": {
+    "anchoringServices": [
+      "https://pqmah10.pla.health"
+    ],
+    "brickStorages": [
+      "https://pqmah10.pla.health"
+    ]
+  },
+  "preqa.epi.mah10": {
+    "anchoringServices": [
+      "https://pqmah10.pla.health"
+    ],
+    "brickStorages": [
+      "https://pqmah10.pla.health"
+    ]
+  },
+  "preqa.epi.mah11": {
+    "anchoringServices": [
+      "https://pqmah11.pla.health"
+    ],
+    "brickStorages": [
+      "https://pqmah11.pla.health"
+    ]
+  },
+  "preqa.epi.mah12": {
+    "anchoringServices": [
+      "https://pqmah12.pla.health"
+    ],
+    "brickStorages": [
+      "https://pqmah12.pla.health"
+    ]
+  },
+  "preqa.epi.mah13": {
+    "anchoringServices": [
+      "https://pqmah13.pla.health"
+    ],
+    "brickStorages": [
+      "https://pqmah13.pla.health"
+    ]
+  },
+  "preqa.epi.mah14": {
+    "anchoringServices": [
+      "https://pqmah14.pla.health"
+    ],
+    "brickStorages": [
+      "https://pqmah14.pla.health"
+    ]
+  },
+  "preqa.epi.mah15": {
+    "anchoringServices": [
+      "https://pqmah15.pla.health"
+    ],
+    "brickStorages": [
+      "https://pqmah15.pla.health"
+    ]
+  },
+  "preqa.epi.mah16": {
+    "anchoringServices": [
+      "https://pqmah16.pla.health"
+    ],
+    "brickStorages": [
+      "https://pqmah16.pla.health"
+    ]
+  },
+  "preqa.epi.mah17": {
+    "anchoringServices": [
+      "https://pqmah17.pla.health"
+    ],
+    "brickStorages": [
+      "https://pqmah17.pla.health"
+    ]
+  },
+  "preqa.epi.mah18": {
+    "anchoringServices": [
+      "https://pqmah18.pla.health"
+    ],
+    "brickStorages": [
+      "https://pqmah18.pla.health"
     ]
   },
   "testsso.epi": {
