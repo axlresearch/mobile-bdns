@@ -379,24 +379,22 @@
   },
   "preqa.epi": {
     "anchoringServices": [
-      "https://pq.pla.health"
+      "https://pqadmin.pla.health",
+      "https://pqnvs.pla.health",
+      "https://pqmsd.pla.health"
     ],
     "brickStorages": [
-      "https://pq.pla.health"
-    ],
-    "notifications": [
-      "https://pq.pla.health"
+      "https://pqadmin.pla.health",
+      "https://pqnvs.pla.health",
+      "https://pqmsd.pla.health"
     ]
   },
-  "preqa.epi.pla": {
+  "preqa.epi.admin": {
     "anchoringServices": [
-      "https://pq.pla.health"
+      "https://pqadmin.pla.health"
     ],
     "brickStorages": [
-      "https://pq.pla.health"
-    ],
-    "notifications": [
-      "https://pq.pla.health"
+      "https://pqadmin.pla.health"
     ]
   },
   "preqa.epi.nvs": {
