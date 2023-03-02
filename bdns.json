@@ -397,12 +397,16 @@
     "anchoringServices": [
       "https://pqadmin.pla.health",
       "https://pqnvs.pla.health",
-      "https://pqmsd.pla.health"
+      "https://pqmsd.pla.health",
+      "https://pqjnj.pla.health",
+      "https://pqnah2.pla.health"      
     ],
     "brickStorages": [
       "https://pqadmin.pla.health",
       "https://pqnvs.pla.health",
-      "https://pqmsd.pla.health"
+      "https://pqmsd.pla.health",
+      "https://pqjnj.pla.health",
+      "https://pqnah2.pla.health"
     ]
   },
   "preqa.epi.admin": {
@@ -466,6 +470,14 @@
     ],
     "notifications": [
       "https://pqjnj.pla.health"
+    ]
+  },
+  "preqa.epi.nah2": {
+    "anchoringServices": [
+      "https://pqnah2.pla.health"
+    ],
+    "brickStorages": [
+      "https://pqnah2.pla.health"
     ]
   },
   "preqa.epi.mah10": {
