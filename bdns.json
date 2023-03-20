@@ -395,26 +395,22 @@
   },
   "preqa.epi": {
     "anchoringServices": [
-      "https://pqadmin.pla.health",
-      "https://pqnvs.pla.health",
-      "https://pqmsd.pla.health",
-      "https://pqjnj.pla.health",
-      "https://pqnah2.pla.health"      
+      "https://pqadmin.pladev.com",
+      "https://pqmsd.pladev.com",
+      "https://pqnah2.pladev.com"
     ],
     "brickStorages": [
-      "https://pqadmin.pla.health",
-      "https://pqnvs.pla.health",
-      "https://pqmsd.pla.health",
-      "https://pqjnj.pla.health",
-      "https://pqnah2.pla.health"
+      "https://pqadmin.pladev.com",
+      "https://pqmsd.pladev.com",
+      "https://pqnah2.pladev.com"
     ]
   },
   "preqa.epi.admin": {
     "anchoringServices": [
-      "https://pqadmin.pla.health"
+      "https://pqadmin.pladev.com"
     ],
     "brickStorages": [
-      "https://pqadmin.pla.health"
+      "https://pqadmin.pladev.com"
     ]
   },
   "preqa.epi.nvs": {
@@ -430,10 +426,10 @@
   },
   "preqa.epi.msd": {
     "anchoringServices": [
-      "https://pqmsd.pla.health"
+      "https://pqmsd.pladev.com"
     ],
     "brickStorages": [
-      "https://pqmsd.pla.health"
+      "https://pqmsd.pladev.com"
     ],
     "notifications": [
       "https://pqmsd.pla.health"
@@ -474,18 +470,10 @@
   },
   "preqa.epi.nah2": {
     "anchoringServices": [
-      "https://pqnah2.pla.health"
+      "https://pqnah2.pladev.com"
     ],
     "brickStorages": [
-      "https://pqnah2.pla.health"
-    ]
-  },
-  "preqa.epi.mah10": {
-    "anchoringServices": [
-      "https://pqmah10.pla.health"
-    ],
-    "brickStorages": [
-      "https://pqmah10.pla.health"
+      "https://pqnah2.pladev.com"
     ]
   },
   "preqa.epi.mah10": {
