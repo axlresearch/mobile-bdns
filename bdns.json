@@ -1,4 +1,58 @@
 {
+  "preqa.epi": {
+    "anchoringServices": [
+       {
+        "url": "https://pqadmin.pladev.com",
+        "headers": {
+          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
+        }
+      },
+      {
+        "url": "https://pqnah2.pladev.com",
+        "headers": {
+          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
+        }     
+      }
+    ],
+    "brickStorages": [      
+    ]
+  },
+  "preqa.epi.admin": {
+    "anchoringServices": [
+      {
+        "url": "https://pqadmin.pladev.com",
+        "headers": {
+          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
+        }  
+      }
+    ],
+    "brickStorages": [
+       {
+        "url": "https://pqadmin.pladev.com",
+        "headers": {
+          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
+        }    
+       }
+    ]
+  },
+  "preqa.epi.nah2": {
+    "anchoringServices": [
+      {
+        "url": "https://pqnah2.pladev.com",
+        "headers": {
+          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
+        }
+      }
+    ],
+    "brickStorages": [
+      {
+        "url": "https://pqnah2.pladev.com",
+        "headers": {
+          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
+        }
+      }      
+    ]
+  },
   "demo.epi": {
     "anchoringServices": [
       "https://bayer.pla.health",
@@ -393,109 +447,6 @@
       "https://pqjnj.pla.health"
     ]
   },
-  "preqa.epi": {
-    "anchoringServices": [
-      "https://pqadmin.pladev.com",
-      "https://pqmsd.pladev.com",
-      {
-        "url": "https://pqnah2.pladev.com",
-        "headers": {
-          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }
-      }
-    ],
-    "brickStorages": [
-      "https://pqadmin.pladev.com",
-      "https://pqmsd.pladev.com",
-      {
-        "url": "https://pqnah2.pladev.com",
-        "headers": {
-          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }
-      }
-    ]
-  },
-  "preqa.epi.admin": {
-    "anchoringServices": [
-      "https://pqadmin.pladev.com"
-    ],
-    "brickStorages": [
-      "https://pqadmin.pladev.com"
-    ]
-  },
-  "preqa.epi.nvs": {
-    "anchoringServices": [
-      "https://pqnvs.pla.health"
-    ],
-    "brickStorages": [
-      "https://pqnvs.pla.health"
-    ],
-    "notifications": [
-      "https://pqnvs.pla.health"
-    ]
-  },
-  "preqa.epi.msd": {
-    "anchoringServices": [
-      "https://pqmsd.pladev.com"
-    ],
-    "brickStorages": [
-      "https://pqmsd.pladev.com"
-    ],
-    "notifications": [
-      "https://pqmsd.pla.health"
-    ]
-  },
-  "preqa.epi.gsk": {
-    "anchoringServices": [
-      "https://pqgsk.pla.health"
-    ],
-    "brickStorages": [
-      "https://pqgsk.pla.health"
-    ],
-    "notifications": [
-      "https://pqgsk.pla.health"
-    ]
-  },
-  "preqa.epi.tk": {
-    "anchoringServices": [
-      "https://pqtk.pla.health"
-    ],
-    "brickStorages": [
-      "https://pqtk.pla.health"
-    ],
-    "notifications": [
-      "https://pqtk.pla.health"
-    ]
-  },
-  "preqa.epi.jnj": {
-    "anchoringServices": [
-      "https://pqjnj.pla.health"
-    ],
-    "brickStorages": [
-      "https://pqjnj.pla.health"
-    ],
-    "notifications": [
-      "https://pqjnj.pla.health"
-    ]
-  },
-  "preqa.epi.nah2": {
-    "anchoringServices": [
-      {
-        "url": "https://pqnah2.pladev.com",
-        "headers": {
-          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }
-      }
-    ],
-    "brickStorages": [
-      {
-        "url": "https://pqnah2.pladev.com",
-        "headers": {
-          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
-        }
-      }      
-    ]
-  },
   "preqa.epi.mah10": {
     "anchoringServices": [
       "https://pqmah10.pla.health"
@@ -567,115 +518,7 @@
     "brickStorages": [
       "https://pqmah18.pla.health"
     ]
-  },
-  "testsso.epi": {
-    "anchoringServices": [
-      "https://testsso2.pla.health"
-    ],
-    "brickStorages": [
-      "https://testsso2.pla.health"
-    ]
-  },
-  "testsso.epi.pla": {
-    "anchoringServices": [
-      "https://testsso2.pla.health"
-    ],
-    "brickStorages": [
-      "https://testsso2.pla.health"
-    ]
-  },
-  "dryrun.epi": {
-    "anchoringServices": [
-      "https://dryrun2-mah1.pla.health",
-      "https://dryrun2-mah2.pla.health",
-      "https://dryrun2-mah3.pla.health",
-      "https://dryrun2-mah4.pla.health"
-    ],
-    "brickStorages": [
-      "https://dryrun2-mah1.pla.health",
-      "https://dryrun2-mah2.pla.health",
-      "https://dryrun2-mah3.pla.health",
-      "https://dryrun2-mah4.pla.health"
-    ]
-  },
-  "dryrun.epi.mah1": {
-    "anchoringServices": [
-      "https://dryrun2-mah1.pla.health"
-    ],
-    "brickStorages": [
-      "https://dryrun2-mah1.pla.health"
-    ]
-  },
-  "dryrun.epi.mah2": {
-    "anchoringServices": [
-      "https://dryrun2-mah2.pla.health"
-    ],
-    "brickStorages": [
-      "https://dryrun2-mah2.pla.health"
-    ]
-  },
-  "dryrun.epi.mah3": {
-    "anchoringServices": [
-      "https://dryrun3-mah3.pla.health"
-    ],
-    "brickStorages": [
-      "https://dryrun2-mah3.pla.health"
-    ]
-  },
-  "dryrun.epi.mah4": {
-    "anchoringServices": [
-      "https://dryrun2-mah4.pla.health"
-    ],
-    "brickStorages": [
-      "https://dryrun2-mah4.pla.health"
-    ]
-  },
-  "dryrun2.epi": {
-    "anchoringServices": [
-      "https://dryrun-quo1.pla.health",
-      "https://dryrun-quo2.pla.health",
-      "https://dryrun-quo3.pla.health",
-      "https://dryrun-quo4.pla.health"
-    ],
-    "brickStorages": [
-      "https://dryrun-quo1.pla.health",
-      "https://dryrun-quo2.pla.health",
-      "https://dryrun-quo3.pla.health",
-      "https://dryrun-quo4.pla.health"
-    ]
-  },
-  "dryrun2.epi.quo1": {
-    "anchoringServices": [
-      "https://dryrun-quo1.pla.health"
-    ],
-    "brickStorages": [
-      "https://dryrun-quo1.pla.health"
-    ]
-  },
-  "dryrun2.epi.quo2": {
-    "anchoringServices": [
-      "https://dryrun-quo2.pla.health"
-    ],
-    "brickStorages": [
-      "https://dryrun-quo2.pla.health"
-    ]
-  },
-  "dryrun2.epi.quo3": {
-    "anchoringServices": [
-      "https://dryrun3-quo3.pla.health"
-    ],
-    "brickStorages": [
-      "https://dryrun-quo3.pla.health"
-    ]
-  },
-  "dryrun2.epi.quo4": {
-    "anchoringServices": [
-      "https://dryrun-quo4.pla.health"
-    ],
-    "brickStorages": [
-      "https://dryrun-quo4.pla.health"
-    ]
-  },
+  },  
   "localhost.epi": {
     "anchoringServices": [
       "http://localhost:8181",
