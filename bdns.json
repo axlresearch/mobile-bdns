@@ -397,12 +397,22 @@
     "anchoringServices": [
       "https://pqadmin.pladev.com",
       "https://pqmsd.pladev.com",
-      "https://pqnah2.pladev.com"
+      {
+        "url": "https://pqnah2.pladev.com",
+        "headers": {
+          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
+        }
+      }
     ],
     "brickStorages": [
       "https://pqadmin.pladev.com",
       "https://pqmsd.pladev.com",
-      "https://pqnah2.pladev.com"
+      {
+        "url": "https://pqnah2.pladev.com",
+        "headers": {
+          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
+        }
+      }
     ]
   },
   "preqa.epi.admin": {
@@ -470,10 +480,20 @@
   },
   "preqa.epi.nah2": {
     "anchoringServices": [
-      "https://pqnah2.pladev.com"
+      {
+        "url": "https://pqnah2.pladev.com",
+        "headers": {
+          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
+        }
+      }
     ],
     "brickStorages": [
-      "https://pqnah2.pladev.com"
+      {
+        "url": "https://pqnah2.pladev.com",
+        "headers": {
+          "X-api-key": "AIzaSyDaGmWKa4JsXZ"
+        }
+      }      
     ]
   },
   "preqa.epi.mah10": {
