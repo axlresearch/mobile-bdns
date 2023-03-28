@@ -53,6 +53,25 @@
       }      
     ]
   },
+  ,
+  "preqa.epi.msd": {
+    "anchoringServices": [
+      {
+        "url": "https://pqmsd.pladev.com",
+        "headers": {
+          "X-api-key": "o cheie cu spatii"
+        }
+      }
+    ],
+    "brickStorages": [
+      {
+        "url": "https://pqmsd.pladev.com",
+        "headers": {
+          "X-api-key": ""
+        }
+      }      
+    ]
+  },
   "demo.epi": {
     "anchoringServices": [
       "https://bayer.pla.health",
