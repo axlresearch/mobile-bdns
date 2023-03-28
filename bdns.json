@@ -53,6 +53,25 @@
       }      
     ]
   },
+  ,
+  "preqa.epi.msd": {
+    "anchoringServices": [
+      {
+        "url": "https://pqmsd.pladev.com",
+        "headers": {
+          "X-api-key": "just a token"
+        }
+      }
+    ],
+    "brickStorages": [
+      {
+        "url": "https://pqmsd.pladev.com",
+        "headers": {
+          "X-api-key": "another one"
+        }
+      }      
+    ]
+  },
   "demo.epi": {
     "anchoringServices": [
       "https://bayer.pla.health",
